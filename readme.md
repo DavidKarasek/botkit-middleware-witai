@@ -1,5 +1,9 @@
 # Use Wit.ai's natural language tools in your Botkit-powered Bot!
 
+This is a fork of Howdy.ai's original middleware. I have simply made some updates
+to the middlware to improve it's functionality. All original work and credit
+goes to the team at Howdi.ai.
+
 This middleware plugin for [Botkit](http://howdy.ai/botkit) allows you
 to seamlessly integrate Wit.ai natural language intent APIs into your Botkit bot.
 

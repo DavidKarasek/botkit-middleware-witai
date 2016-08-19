@@ -1,7 +1,7 @@
 {
-  "name": "botkit-middleware-witai",
+  "name": "witkit",
   "version": "0.0.2",
-  "description": "A middleware for using Wit.ai in a Botkit-powered bot",
+  "description": "A fork of the Howdi.ai middleware for using Wit.ai in a Botkit-powered bot",
   "main": "src/botkit-middleware-witai.js",
   "scripts": {
     "start": "node src/botkit-middleware-witai.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/howdyai/botkit-middleware-witai.git"
+    "url": "git+https://github.com/davidkarasek/botkit-middleware-witai.git"
   },
   "keywords": [
     "botkit",
@@ -19,9 +19,9 @@
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/howdyai/botkit-middleware-witai/issues"
+    "url": "https://github.com/davidkarasek/botkit-middleware-witai/issues"
   },
-  "homepage": "https://github.com/howdyai/botkit-middleware-witai#readme",
+  "homepage": "https://github.com/davidkarasek/botkit-middleware-witai#readme",
   "dependencies": {
     "node-wit": "^2.0.0"
   },
